@@ -8,6 +8,6 @@ Thank you, flenker.blog!
 -------
 ### Progress now
 - [x] Implement a basic text editor Hecto editor
-- [] Transfer basic input key of Hector editor into Vim keywords
-- [] Modify state line to record and show current key input
-- [] Seperate reading and writing mod
+- [ ] Transfer basic input key of Hector editor into Vim keywords
+- [ ] Modify state line to record and show current key input
+- [ ] Seperate reading and writing mod
