@@ -2,7 +2,8 @@
 Vim in Rust by ting
 
 This is an early version of Rim(Vim in Rust) for practice used.
-The main idea of text editor is following the implementation of [Hecto](!https://www.flenker.blog/hecto/)
+The main idea of text editor is following the implementation of [Hecto](https://www.flenker.blog/hecto/);
+
 Thank you, flenker.blog!
 -------
 ### Progress now
