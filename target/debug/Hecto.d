@@ -1,0 +1,1 @@
+/mnt/e/GithubClone/Rust/Hecto/target/debug/Hecto: /mnt/e/GithubClone/Rust/Hecto/src/document.rs /mnt/e/GithubClone/Rust/Hecto/src/editor.rs /mnt/e/GithubClone/Rust/Hecto/src/main.rs /mnt/e/GithubClone/Rust/Hecto/src/row.rs /mnt/e/GithubClone/Rust/Hecto/src/terminal.rs
