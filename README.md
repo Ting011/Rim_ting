@@ -14,23 +14,35 @@ Thank you, flenker.blog!
 - [ ] Modify state line to record and show current key input
 - [ ] Seperate reading and writing mode
 - [ ] Design the vim functions
-  - [ ] Command (TODO)
-    - [ ] uU -- do and undo
+  - [ ] Command
+    - [ ] uU -- undo times or line
     - [ ] iI -- enter insert mode
     - [ ] aA -- append mode
     - [ ] dD -- delete or delete line
     - [ ] pP -- paste before and after
-    - [ ] /% -- search and jump
+    - [ ] /%? -- search and jump
+    - [ ] rR -- replace char or replace mode
+    - [ ] m -- set mark
   - [ ] Motion
     - [ ] hjkl -- move ←↑↓→
     - [ ] weWE -- next word, pre word
     - [ ] HL -- screen top bottom
     - [ ] +-$^ line operation
+    - [ ] ' -- goto mark
+    - [ ] M -- screen middle
+    - [ ] nN -- find next and prev
   - [ ] Operation
     - [ ] d -- delete
     - [ ] c -- change
     - [ ] y -- yank(copy)
     - [ ] = -- auto format
     - [ ] <> indent and unindent
-  - [ ] Extra and combination
-      - [ ]  :wq and :q! -- save and quit
+  - [ ] Extra and combination(combination of int and operation)
+      - [ ] :wq and :q! -- save and quit
+      - [ ] int+hjkl -- move int lines
+      - [ ] gg -- move to end
+      - [ ] int + y + y/$/... -- copy with different attribute
+      - [ ] int + d + d/^/... -- delete with different attribute
+- [ ] Further feature
+  - [ ] open multible windows
+  - [ ] open multible files
